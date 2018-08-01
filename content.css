@@ -1,0 +1,111 @@
+    /* CONTENT */
+
+
+.primary-content {
+    display: block;
+    position: relative;
+    height: 750%;
+    color: black;
+    padding: 20px;
+}
+
+.line {
+    border-bottom: 1px solid rgb(168, 167, 167, 0.658);
+}
+.communistMutantsFromSpace {
+    float: right;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1 {
+    font-weight: inherit;
+    color: black;
+}
+.box1 {
+    border: 1px solid rgb(168, 167, 167, 0.658);
+    padding: 20px;
+    background-color: #f6f6f6;
+}
+.box1 p {
+    text-align: center;
+    padding: 5px;
+}
+td a {
+    color: rgb(21, 21, 206);
+}
+td {
+    font-size: 14px;
+    padding: 2px;
+}
+tr td:first-of-type {
+    font-weight: bold;
+}
+main p {
+    padding: 5px;
+    font-size: 16px;
+    color: black;
+}
+.box2 {
+    float: left;
+    border: 1px solid rgb(168, 167, 167, 0.658);
+    padding: 20px;
+    background-color: #f6f6f6;
+    width: 10%;
+}
+
+ol {
+    padding: 5px;
+}
+li a{
+    color: rgb(21, 21, 206);
+}
+
+h3 {
+    font-size: 23px;
+    font-family: 'Hind', sans-serif;
+    padding-top: 20px;
+}
+.clearfix {
+    height: 15%;
+}
+.line2 {
+    border-bottom: 1px solid rgb(168, 167, 167, 0.658);
+    width: 75%;
+}
+
+
+.box3  {
+    float: left;
+    border: 1px solid rgb(168, 167, 167, 0.658);
+    padding: 5px;
+    margin: 5px;
+    margin-right: 20px;
+    background-color: #f6f6f6;
+    width: 18%;
+    align-content: center;
+}
+
+.box3 img {
+    width: 100%;
+}
+
+.paragraf ol {
+    padding-left: 50px;
+}
+.paragraf ul {
+    list-style: circle;
+    margin-left: 40px;    
+}
+
+.box4 {
+    margin-top: 20px;
+    border: 1px solid rgb(168, 167, 167, 0.658);
+    padding: 20px;
+    background-color: #f6f6f6;
+}
+.box4 span {
+    display: inline;
+    padding: 2px;
+    border-right: 1px solid rgb(21, 21, 206);
+}

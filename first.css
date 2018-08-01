@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+/* HEADER + CONTENT */
+body {
+    background-color: #f6f6f6;
+}
+.content {
+    float: left;
+    display: block;
+    position: relative;
+    width: 86vw;
+    height: 20vh;
+}
+main {
+    border: 1px solid rgb(0, 183, 255);
+    background-color: white;
+    height: 100vh;
+}

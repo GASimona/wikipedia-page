@@ -1,0 +1,10 @@
+footer p {
+    font-size: 12px;
+    padding: 6px;
+    margin-top: 10px;
+}
+footer ol li {
+    display: inline;
+    list-style: none;
+    padding-right: 15px;
+}

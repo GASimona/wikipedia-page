@@ -1,0 +1,51 @@
+ /* HEADER */
+
+.main-header {
+    display: block;
+    position: relative;
+    height: 60%;
+
+}
+
+.settings, .fa {
+    float: right;
+    padding: 5px;
+    font-size: 16px;
+}
+
+a {
+    background-color: #f6f6f6;
+    list-style: none;
+    color: rgb(50, 22, 150);
+}
+a:hover {
+    text-decoration-line: underline;
+}
+
+.menuLeft a {
+    border-right: 1px solid rgb(0, 183, 255);
+}
+
+.menuRight a {
+    border-right: 1px solid rgb(0, 183, 255);
+}
+
+.menuLeft {
+    position: absolute;
+    left: 5px;
+    top: 60px;
+}
+.menuRight {
+    float: right;
+    position: relative;
+    top: 60px;
+    left: 400px;
+}
+.view {
+    font-size: 16px;
+    padding: 5px;
+}
+.cautare {
+    height: 20px;
+    width: 250px;
+}
